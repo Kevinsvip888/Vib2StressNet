@@ -1,5 +1,4 @@
 [![DOI](https://zenodo.org/badge/984052758.svg)](https://doi.org/10.5281/zenodo.15424078)
-# Vib2strssNet
 
 # Vib2StressNet
 **Direct Estimation of Fatigue Stress Spectra from Bridge Vibration Signals**
@@ -37,3 +36,10 @@ The model combines **convolutional neural networks (CNNs)** with **multi-head se
 git clone https://github.com/Kevinsvip888/Vib2StressNet.git
 cd Vib2StressNet
 pip install -r requirements.txt
+
+@article{meng2026vib2stressnet,
+  title={Direct estimation of fatigue stress spectra from bridge vibration signals using an attention-enhanced convolutional neural network},
+  author={Meng, Bo-wen and Bayane, Imane and Leander, John},
+  journal={Engineering Structures},
+  year={2026}
+}
