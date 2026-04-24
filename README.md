@@ -97,3 +97,11 @@ cd Vib2StressNet
 
 pip install -r requirements.txt
 
+## Citation
+@article{meng2026vib2stressnet,
+  title={Direct estimation of fatigue stress spectra from bridge vibration signals using an attention-enhanced convolutional neural network},
+  author={Meng, Bo-wen and Bayane, Imane and Leander, John},
+  journal={Engineering Structures},
+  year={2026}
+}
+
