@@ -1,8 +1,7 @@
 [![DOI](https://zenodo.org/badge/984052758.svg)](https://doi.org/10.5281/zenodo.15424078)
 
 # Vib2StressNet
-**Direct Estimation of Fatigue Stress Spectra from Bridge Vibration Signals**
-
+**End-to-End ML System for Vibration-Based Structural Fatigue Stress Spectra Estimation**
 ---
 
 ## 📖 Overview
